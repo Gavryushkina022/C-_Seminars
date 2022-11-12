@@ -13,3 +13,6 @@ if (a>b) {
 else if (b>a) {
     Console.WriteLine ("Максимальное число number: " +b);
 }
+else if (a==b) {
+    Console.WriteLine ("Числа равны");
+}
